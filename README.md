@@ -27,8 +27,8 @@ It serves as a digital resume and portfolio to share my work and passion with th
 
 Feel free to connect with me:
 
-- LinkedIn: [https://www.linkedin.com/in/sathishkumar-a-s/](#)
-- Email: [Your Email](mailto:assathish.30@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/sathishkumar-a-s/]
+- Email: [Gmail](mailto:assathish.30@gmail.com)
 
 ## 🌟 Contributing
 
