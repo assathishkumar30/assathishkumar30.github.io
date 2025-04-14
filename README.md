@@ -27,13 +27,9 @@ It serves as a digital resume and portfolio to share my work and passion with th
 
 Feel free to connect with me:
 
-- LinkedIn: [https://www.linkedin.com/in/sathishkumar-a-s/]
+- LinkedIn: [Sathish Kumar A S](https://www.linkedin.com/in/sathishkumar-a-s/)
 - Email: [Gmail](mailto:assathish.30@gmail.com)
 
 ## 🌟 Contributing
 
 This is a personal project, but I'm always open to feedback and suggestions!
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
